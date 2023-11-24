@@ -3,7 +3,7 @@ Use this repo as a starting point. It has all the nescessary base components to 
 
 ## Setup
 - Follow the instructions on [WebOS TV Developer](https://webostv.developer.lge.com/develop/getting-started/build-your-first-web-app) to get your local environment ready.
-- Download latest webOS.js library [here](https://webostv.developer.lge.com/develop/references/webostvjs-introduction) and put it in `vendor` folder
+- Download latest webOS.js library [here](https://webostv.developer.lge.com/develop/references/webostvjs-introduction) and put it in `vendor` folder (make sure that `vendor/webOSTVjs-1.2.8/webOSTV.js` can be loaded)
 
 ## Run in Simulator
 - Download Simulator [here](https://webostv.developer.lge.com/develop/tools/simulator-installation)
