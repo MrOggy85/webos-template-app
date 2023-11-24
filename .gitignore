@@ -1,0 +1,8 @@
+# packages
+*.ipk
+
+# webOSTV js generated framework
+webOSTVjs-*
+
+# mac
+.DS_Store

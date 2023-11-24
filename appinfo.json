@@ -1,0 +1,12 @@
+{
+  "id": "",
+  "version": "",
+  "vendor": "Otaku Naturelle",
+  "type": "web",
+  "main": "index.html",
+  "title": "",
+  "icon": "assets/logo.png",
+  "largeIcon": "assets/logolarge.png",
+  "splashBackground": "assets/splash.png",
+  "iconColor": "#f0f0f0"
+}
