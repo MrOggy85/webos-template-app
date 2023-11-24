@@ -5,8 +5,8 @@
   "type": "web",
   "main": "index.html",
   "title": "",
-  "icon": "assets/logo.png",
-  "largeIcon": "assets/logolarge.png",
-  "splashBackground": "assets/splash.png",
+  "icon": "assets/logo_80x80.png",
+  "largeIcon": "assets/logo_130x130.png",
+  "splashBackground": "assets/splash_1920x1080.png",
   "iconColor": "#f0f0f0"
 }
